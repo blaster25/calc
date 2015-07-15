@@ -1,0 +1,32 @@
+.calc {
+	border: 5px solid black;
+	width: 180px;
+	height: 115px;
+ 	padding: 15px;
+ 	margin: auto;
+}
+
+.nums {
+	padding: 3px;
+	width: 98px;
+	/*border: solid;*/
+	float: left;
+	margin: auto;
+}
+
+.dis {
+	
+	padding: 5px;
+	
+}
+
+.clear {
+	clear: both;
+}
+
+.op {
+	margin: auto;
+	/*width: 98px;*/
+	/*float: right;*/
+	/*border: solid;*/
+}
